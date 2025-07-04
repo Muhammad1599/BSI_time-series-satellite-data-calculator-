@@ -278,4 +278,3 @@ analyzer.plot_time_series(
 1. Sentinel-2 User Handbook
 2. Google Earth Engine Documentation
 3. Scientific papers on BSI applications in soil and land cover monitoring
-4. McFeeters, S.K. (1996) The use of Normalized Difference Water Index (NDWI) in the delineation of open water features 
